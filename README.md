@@ -211,15 +211,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/Ronith2906/AI-Automated-job-agent/issues)
 - **Discussions**: [Join the community](https://github.com/Ronith2906/AI-Automated-job-agent/discussions)
-- **Email**: your-email@example.com
+- **Email**: ronith.reagan@gmail.com
 
-##  Success Stories
-
-> "AI Job Agent helped me land my dream job in just 2 weeks! The automated resume optimization was a game-changer." - *Sarah, Software Engineer*
-
-> "I went from 0 interviews to 5 interviews in one month. The email monitoring feature caught opportunities I would have missed." - *Mike, Product Manager*
-
----
 
 **Ready to revolutionize your job search?** 
 
